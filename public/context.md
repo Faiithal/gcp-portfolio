@@ -1,8 +1,8 @@
-# Bryl Lim Portfolio Knowledge Base
+# John Michael B. Dumlao Portfolio Knowledge Base
 
 ## Profile
 
-Bryl Lim is based in Metro Manila, Philippines.
+John Michael B. Dumlao is based in Metro Manila, Philippines.
 
 Bryl works as an AI engineer, software engineer, and content creator.
 
@@ -30,66 +30,52 @@ DevOps and cloud technologies: AWS, Docker, Kubernetes, and GitHub Actions.
 
 ## Current And Past Experience
 
-AI Engineer at Standard Chartered in 2025.
+Currently studying BS Computer Science at the Polytechnic University of the Philippines.
 
-AI Ops Engineer at Centre of Excellence for GenAI, Cambridge in 2025.
+Program Analyst at Google Developer Groups at PUP Campus
 
-Senior Full-Stack Developer at Core Technology.
+Frontend Developer in AWS Cloud Club PUP
 
-Software Engineering Lead at PocketDevs in 2022.
+Game Programmer in AcademiTech Research and Knowledge (ARK)
 
-Lead Application Developer at Bluewind Asia in 2021.
+Senior High School Graduate.
 
-Software Engineer at GCM in 2020.
+On-Job-Training in IAmTech.
 
-Bryl studied BS Information Technology at the University of San Carlos in 2019.
-
-Bryl wrote his first line of code in 2015.
+Wrote his first line of code in 2020.
 
 ## Projects
 
-CodeCred is an online certification platform for programmers. Website: https://codecred.dev
+Creatrium, A project-based gallery that showcases projects and in an easily readable manner with elegant design.
 
-BASE404 is an online coding bootcamp. Website: https://base-404.com
-
-DIIN.PH is an AI-powered wardrobe assistant. Website: https://diin.ph
-
-DYNAMIS Workout Tracker is an AI-powered workout tracker. Website: https://dynamis-app.online
+Hexbreak: Wrath of the Cursed Witch, Bullet Hell game developed in Unity to challenge the player with different enemies and a boss with uniquely defined bullet patterns to dodge through.
 
 ## Certifications
 
-Huawei Developer Expert from Huawei.
+CS50 Certificate of Completion from CS50 Harvard
 
-Generative AI Leader from Google.
+JavaScript: Hard Parts Completion from FrontendMasters
 
-Software Engineering certification from TestDome.
+Deep JavaScript Foundations Completion from FrontendMasters
 
-Generative AI Professional from Oracle.
+Full Stack Fundamentals Completion from FrontendMasters
 
 ## Awards And Recognition
 
-Bryl was recognized as DICT OpenGov Hackathon 2025 Champion.
-
-Bryl is part of StellarPH PH100, the annual list of the brightest minds under 30 in the Philippines.
-
-Bryl is a founding member of DEVS ONE HUNDRED.
+Won 2nd place in a local gamejam hosted by ARK
 
 ## Memberships
 
-Bryl is a member of the Analytics & Artificial Intelligence Association of the Philippines (AAP).
+AWS Cloud Club
 
-Bryl is a member of the Philippine Software Industry Association.
+Google Developer Groups at Campus PUP
+
+AcademiTech Research and Knowledge (ARK)
 
 ## Contact And Links
 
-Email Bryl at bryllim@gmail.com.
+Email Michael at johndumlao2355@gmail.com.
 
-Schedule a consultation at https://calendly.com/bryllim/consultation.
+LinkedIn: https://www.linkedin.com/in/john-michael-dumlao-8029822aa/
 
-Read Bryl's blog at https://blog.bryllim.com.
 
-LinkedIn: https://linkedin.com/in/bryllim
-
-GitHub: https://github.com/bryllim
-
-Instagram: https://www.instagram.com/bryl.lim/
